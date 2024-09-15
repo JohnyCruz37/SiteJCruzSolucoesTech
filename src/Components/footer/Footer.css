@@ -1,0 +1,16 @@
+.footer{
+    box-shadow: 0 -4px 8px var(--shadow);
+}
+
+.lista-menu{
+    list-style: none;
+}
+
+.lista-menu .menu-item{
+    text-decoration: none;
+    color: var(--color-font)
+}
+
+.lista-menu .menu-item:hover{
+    color: var(--verde-destaque);
+}

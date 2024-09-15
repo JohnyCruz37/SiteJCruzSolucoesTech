@@ -1,0 +1,14 @@
+#quem-somos img,
+#fundador img {
+    max-width: 100%;
+    border-radius: 8px;
+}
+
+#fundador{
+    height: 40rem;
+}
+
+#fundador img{
+    height: 100%;
+    object-fit: contain;
+}
