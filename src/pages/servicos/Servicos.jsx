@@ -43,7 +43,6 @@ export default function Servicos() {
                     </video>
                 </section>
                 <section className="col-8 section-cards">
-                    <h5>Serviços Específicos</h5>
                     <div className="row area-cards">
                         {services.map((service, index) => (
                             <div className="col-md-6 col-lg-4 mb-4 div-card" key={index}>
